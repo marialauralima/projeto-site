@@ -1,2 +1,2 @@
 # projeto-site
- site feito durante o curso de git e github
+ site feito durante o curso de git e github do Guanabara
